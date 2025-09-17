@@ -16,7 +16,6 @@ main() {
  int umurku = 14;
  int umurmu = 14;
 
-
 }
 
 
