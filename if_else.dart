@@ -28,7 +28,7 @@ void main(List<String> args) {
   var capek = true;
   var jambuka = 7;
   var jamtutup = 16;
-  var jamsekarang = 6;
+  var jamsekarang = 24;
 
   if (jamsekarang < jambuka) {
     print('toko masih tutup')

@@ -54,6 +54,18 @@
 //  * karena dilihat dari operatornya perbandingannya yani == null
 //  */
 
+/**
+ * program menggunakan stdin (input) nilaiUJIAN veriabelnya nilauUJIAN
+ * type data num ketentuan nilai hasilnya ada dibawah ini:
+ * jika nilai kurang dari 0 maka outputnya
+ * "tidak terdefinisi (tidak terdaftar)"
+ * jika nilai lebih dari 100 maka outputnya
+ * "ini adalah cheater"
+ * 
+ * nilai pada :A/B/C/D/E
+ * A-C itu lulus dan D-E itu remidial
+ */
+
 void main() {
   String? favoriteFood = 'mie ayam';
   buymeal(favoriteFood!);
