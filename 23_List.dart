@@ -25,7 +25,7 @@ void main() {
   print(buah);
 
   print('\n===LENGHT====');
-  print(buah);
+  print(buah); //menghitung panjang suatu element
   print(buah.length);
 
   print('\n===CONSTAINS===');
