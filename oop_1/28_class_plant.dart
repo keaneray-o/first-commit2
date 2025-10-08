@@ -8,11 +8,5 @@ class Plants {
   int? price;
 
   //constructor
-Plants(
-  this.name,
-  this.latinname,
-  this.color,
-  this.height,
-  this.price)
-
+  Plants(this.name, this.latinname, this.color, this.height, this.price);
 }

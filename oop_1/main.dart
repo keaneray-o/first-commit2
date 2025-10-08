@@ -1,9 +1,9 @@
-import 'animal.dart';
-import 'plant.dart';
+import '27_class_animal.dart';
+import '28_class_plant.dart';
 
 void main(List<String> args) {
   var cat = Animal();
-  var mashroom = Plants('fungi', 'mashroom', 'white', '20.1', '30.000');
+  var mashroom = Plants('fungi', 'mashroom', 'white', 20.1, 30.000);
   print('${mashroom.name} ${mashroom.color}');
   /**
    * .age
@@ -38,6 +38,7 @@ void main(List<String> args) {
    * -attack(), 
    * -heal()
    */
+
 
   
 }
