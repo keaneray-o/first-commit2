@@ -63,5 +63,5 @@ class Hewan {
    * ketika memanggil kelas dengan constructor maka kita harus
    * mengisi nilai value dari properties
    */
-  var hewan = Hewan('ucup guerero', 'Orange - white', 1.5);
+ 
 }

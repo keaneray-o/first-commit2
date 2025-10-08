@@ -1,6 +1,6 @@
 import '27_class_animal.dart';
 import '28_class_plant.dart';
-
+import '29_constructor.dart';
 void main(List<String> args) {
   var cat = Animal();
   var mashroom = Plants('fungi', 'mashroom', 'white', 20.1, 30.000);
@@ -39,6 +39,9 @@ void main(List<String> args) {
    * -heal()
    */
 
-
+var hewan = Hewan('ucup guerero', 'Orange - white', 1.5);
+..name = 'vladimir';
+..color = 'red';
+..eat();
   
 }
